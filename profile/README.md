@@ -6,4 +6,4 @@ This is a collection of container images using Fedora's [support for OCI/Docker 
 - Pull requests gladly accepted, we're trying to figure out if a community-curated set of images can make something awesome.
 - Experimentation encouraged!
 
-Ping [@jorge@hachyderm.io](https://hachyderm.io/@jorge) if you're interested in collaborating with a repo in this org. If you're building your own custom images feel free to add them to [our awesome list](https://github.com/ublue-os/awesome-custom-images)!
+Ping [@jorge@hachyderm.io](https://hachyderm.io/@jorge) if you're interested in collaborating with a repo in this org. If you're building your own custom images feel free to add them to [our awesome list](https://github.com/ublue-os/awesome-custom-images)! You can also [join our Discord](https://discord.gg/WEu6BdFEtp) if you want to dive in and help out.
