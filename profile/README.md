@@ -1,4 +1,4 @@
-# Universal-Blue
+# Universal Blue
 ## Custom Operating System images based on Fedora
 
 This is a collection of container images using Fedora's [support for OCI/Docker containers as a transport and delivery mechanism for operating system content](https://fedoraproject.org/wiki/Changes/OstreeNativeContainerStable). This project's purpose is to be a "kit" for you to derive from to create your perfect image as well as provide high quality images for use as a desktop.  
