@@ -7,5 +7,6 @@ This is a collection of container images using Fedora's [support for OCI/Docker 
 - [Join our Discord](https://discord.gg/WEu6BdFEtp) if you want to dive in and help out
 - Pull requests gladly accepted, we're trying to figure out if a community-curated set of images can make something awesome.
 - Experimentation encouraged!
+- Follow along [with the roadmap](https://github.com/orgs/ublue-os/projects/1) and check out the [proposals](https://github.com/orgs/ublue-os/discussions?discussions_q=is%3Aopen+label%3Aproposal) to get a feel for the project.
 
 Check [the website](https://ublue.it) for more information and [frequently asked questions](https://ublue.it/faq/). 
