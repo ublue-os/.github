@@ -4,4 +4,4 @@ profiles:
     pass_threshold: 66
     allowed_voters:
       teams:
-        - ublue-os/approver
+        - approver
