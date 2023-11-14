@@ -9,6 +9,7 @@ Our ultimate goal is to provide a community-curated set of images to take someth
 
 - [ISO Installation instructions](https://universal-blue.org/installation/).
   - [Full list of images](https://universal-blue.org/images) - switching to another image is atomic, no need to reinstall, whichever one you pick, you win.
+- [Join our Discourse Forums](https://universal-blue.discourse.group/c/bluefin/6)
 - [Join our Discord](https://discord.gg/WEu6BdFEtp) and join the conversations about the project.
 - [Consider contributing](https://universal-blue.org/CONTRIBUTING/) if you have ideas to improve the project.
 - Pull requests are gladly accepted! Have a look through [help wanted](https://github.com/ublue-os/main/labels/help%20wanted) issues to see if you can assist.
