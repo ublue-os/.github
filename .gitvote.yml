@@ -5,4 +5,4 @@ profiles:
     allowed_voters:
       teams:
         - approver
-        - members
+        - member
