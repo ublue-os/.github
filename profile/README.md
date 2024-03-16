@@ -6,8 +6,6 @@ This is a collection of container images using Fedora's [support for OCI/Docker 
 
 Our ultimate goal is to provide a community-curated set of images to take something great and make it awesome.
 
-- [ISO Installation instructions](https://universal-blue.org/installation/)
-  - [Full list of images](https://github.com/orgs/ublue-os/packages)
 - [Join our Discourse Forums](https://universal-blue.discourse.group/)
 - [Join our Discord](https://discord.gg/WEu6BdFEtp) and join the conversations about the project
 - [Consider contributing](https://universal-blue.org/CONTRIBUTING/) if you have ideas to improve the project.
