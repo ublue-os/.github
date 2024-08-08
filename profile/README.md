@@ -2,7 +2,7 @@
 
 ## Custom Operating System Images 
 
-This is a collection of container images using [OCI/Docker containers as a transport and delivery mechanism for operating system content]([https://fedoraproject.org/wiki/Changes/OstreeNativeContainerStable](https://github.com/containers/bootc)).
+This is a collection of container images using [OCI/Docker containers as a transport and delivery mechanism for operating system content](https://containers.github.io/bootable/).
 
 Our ultimate goal is to provide a community-curated set of images to take something great and make it awesome.
 
