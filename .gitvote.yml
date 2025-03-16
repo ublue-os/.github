@@ -1,6 +1,6 @@
 profiles:
   default:
-    duration: 72h
+    duration: 7d
     pass_threshold: 66
     allowed_voters:
       teams:
