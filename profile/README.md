@@ -1,5 +1,3 @@
-# Universal Blue
-
 ## Custom Operating System Images 
 
 This is a collection of container images using [OCI/Docker containers as a transport and delivery mechanism for operating system content](https://containers.github.io/bootable/) by using [bootc](https://github.com/bootc-dev/bootc)
