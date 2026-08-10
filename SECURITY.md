@@ -7,7 +7,7 @@ The images build every day and automatically slipstream the changes from Fedora 
 
 # Security Response
 If the issue is with something you've found in Fedora then checkout this information from the 
-[CoreOS security.md](https://github.com/coreos/.github/blob/master/SECURITY.md):
+[Bazzite's security.md](https://github.com/coreos/.github/blob/master/SECURITY.md):
 >If you've found a security issue that you'd like to disclose confidentially please contact
 Red Hat's Product Security team. Details at https://access.redhat.com/security/team/contact
 
